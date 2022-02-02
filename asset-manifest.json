@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/galvanize_shoppingcart/static/css/main.c5c03511.css",
+    "main.js": "/galvanize_shoppingcart/static/js/main.8373ee35.js",
+    "static/js/787.d6fe38e8.chunk.js": "/galvanize_shoppingcart/static/js/787.d6fe38e8.chunk.js",
+    "index.html": "/galvanize_shoppingcart/index.html",
+    "main.c5c03511.css.map": "/galvanize_shoppingcart/static/css/main.c5c03511.css.map",
+    "main.8373ee35.js.map": "/galvanize_shoppingcart/static/js/main.8373ee35.js.map",
+    "787.d6fe38e8.chunk.js.map": "/galvanize_shoppingcart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c03511.css",
+    "static/js/main.8373ee35.js"
+  ]
+}
